@@ -1,0 +1,22 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Variables de entorno locales (no subir credenciales)
+.env
+
+# Logs
+*.log
